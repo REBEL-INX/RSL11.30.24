@@ -1,3 +1,4 @@
 Name = Xavier
-class = class 6
+Class = class 6
 desired countries = Thailand, Philippines, Vietnam
+Desired Income = All of it
